@@ -110,5 +110,5 @@ ${message.content}`)
     }
         })
 
-client.login("");
+client.login("ODY0NTU5OTU4MjYzMzMyODg1.YO3ONA.gVq0uZFpk48DafxB9m6El_oFB1E");
 
